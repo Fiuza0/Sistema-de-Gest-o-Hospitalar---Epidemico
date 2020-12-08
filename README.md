@@ -15,6 +15,6 @@ Arquitetura Pretendida para o projeto(boa parte já foi implementado) --> https:
 5. Aguardar aprovação
 6. Se possivel documentar as suas alterações
 
-##Novas impelementações hão de vir e ser serão descritas abaixo
+##Novas impelementações hão de vir e serão descritas abaixo
 
 ##English Translation is yet to come
