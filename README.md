@@ -8,10 +8,13 @@ Arquitetura Pretendida para o projeto(boa parte já foi implementado) --> https:
 
 ##Guia de Contribuição
 
-1.Crie um Fork
-2.Clonar o Repositório
-3.Crie Códigos!
-4.Testar seu código localmente
-5.Aguardar aprovação
+1. Crie um Fork
+2. Clonar o Repositório
+3. Crie Códigos!
+4. Testar seu código localmente
+5. Aguardar aprovação
+6. Se possivel documentar as suas alterações
 
 ##Novas impelementações hão de vir e ser serão descritas abaixo
+
+##English Translation is yet to come
